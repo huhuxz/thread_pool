@@ -1,3 +1,6 @@
+/*
+ * show how a simple thread pool works
+ */
 #include "threadpool.h"
 #include <stdio.h>
 
